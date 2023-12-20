@@ -1,0 +1,8 @@
+[
+  {"RegionID": 1, "Name": "West", "Country": "United States", "Representative": "Anna Andreadi"},
+  {"RegionID": 2, "Name": "East", "Country": "United States", "Representative": "Chuck Magee"},
+  {"RegionID": 3, "Name": "Central", "Country": "United States", "Representative": "Kelly Williams"},
+  {"RegionID": 4, "Name": "South", "Country": "United States", "Representative": "Cassandra Brandow"}
+]
+
+
